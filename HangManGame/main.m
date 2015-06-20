@@ -94,7 +94,9 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 
-    //            char currentLetter = secretWord[i]; {
+    //                This is my old code below
+    
+    //                char currentLetter = secretWord[i]; {
     //                printf("_____", userGuess);
     //                char f = secretWord[0];
     //                char a = secretWord[1];

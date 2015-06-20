@@ -22,7 +22,7 @@
 		<key>88534F88BE5D4E9C9ABE6EF736FD199B74059364</key>
 		<string>../..</string>
 		<key>9752D1003C09669846699296A85585C5548B2D34</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/kaishajones/HangPerson-Homework-by-Kaisha-Jones.git</string>
@@ -38,7 +38,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>9752D1003C09669846699296A85585C5548B2D34</string>
 			<key>IDESourceControlWCCName</key>
-			<string>..</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
