@@ -4,7 +4,7 @@
 //
 //  Created by Kaisha Jones on 6/18/15.
 //  Copyright (c) 2015 Kaisha Jones. All rights reserved.
-//
+//  Kaisha Jones Homework
 
 #import <Foundation/Foundation.h>
 
@@ -141,9 +141,7 @@ int main(int argc, const char * argv[]) {
 //        char hangManWord[] = "faith";
 //
 //
-//        // for( unsure if a for statement goes here? - refer back to later)
-//        for (j = 0; j < userInput; j++);
-//
+//      
 //
 //
 //        printf("I am thinking of a word, can you guess it? Hint: its ");

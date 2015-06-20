@@ -7,25 +7,29 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>553CDFC1-E38E-47E5-8A27-1FC09FD0467C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>HangManGame</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>88534F88BE5D4E9C9ABE6EF736FD199B74059364</key>
+		<string>https://github.com/kaishajones/HangPerson-Homework-by-Kaisha-Jones.git</string>
 		<key>9752D1003C09669846699296A85585C5548B2D34</key>
 		<string>https://github.com/kaishajones/myfirstrepository.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>06-18/HangManGame/HangManGame.xcodeproj/project.xcworkspace</string>
+	<string>HangManGame.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>88534F88BE5D4E9C9ABE6EF736FD199B74059364</key>
+		<string>../..</string>
 		<key>9752D1003C09669846699296A85585C5548B2D34</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/kaishajones/myfirstrepository.git</string>
+	<string>https://github.com/kaishajones/HangPerson-Homework-by-Kaisha-Jones.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9752D1003C09669846699296A85585C5548B2D34</string>
+	<string>88534F88BE5D4E9C9ABE6EF736FD199B74059364</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>9752D1003C09669846699296A85585C5548B2D34</string>
 			<key>IDESourceControlWCCName</key>
-			<string>unit-0</string>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>88534F88BE5D4E9C9ABE6EF736FD199B74059364</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HangManGame</string>
 		</dict>
 	</array>
 </dict>
