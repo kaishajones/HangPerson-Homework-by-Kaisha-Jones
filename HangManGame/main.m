@@ -64,7 +64,7 @@ int main(int argc, const char * argv[]) {
 //                }
             }
             if (match == 0) {
-                printf("\n no match. sorry\n");
+                printf("\n no match, sorry try again. \n");
                 wrongAttempts++; //
             }
             if (match != 0) {
@@ -77,7 +77,7 @@ int main(int argc, const char * argv[]) {
                 break;
             }
                 if (rightAttempts == maxNumberOfRightAttempts) {
-                printf("YOU WIN!\n");
+                printf("CONGRATS, YOU WIN!\n");
                 break;
                 }
             printf("\n");
