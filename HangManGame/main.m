@@ -11,7 +11,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
-        NSLog(@"Let's play Hang Person");
+        NSLog(@"Hey, Let's play Hang Person");
         
         // Secret Word
         char secretWord[] = "faith";
@@ -131,45 +131,12 @@ int main(int argc, const char * argv[]) {
 // Repeat
 
 
-
-//        int userInput[5];
-//        int input;
-//        int j;
-//        char f;
-//        char a;
-//        char i;
-//        char t;
-//        char h;
-//        char hangManWord[] = "faith";
 //
 //
 //      
 //
 //
-//        printf("I am thinking of a word, can you guess it? Hint: its ");
-//
-//        if (0 == f) {
-//            printf("f_ _ _ _");
-//        } else if (0 != f) {
-//            printf("Sorry, wrong letter");
-//        }
-//        if (1 == a) {
-//            printf("fa_ _ _");
-//        } else if (1 != a) {
-//            printf("Sorry, wrong letter");
-//            if (2 == i) {
-//                printf("fai_ _");
-//            } else if (2 != i) {
-//                printf("Sorry, wrong letter");
-//            }
-//            if (3 == t) {
-//                printf("fait_");
-//            } else if ( 3 != t) {
-//                printf("Sorry, wrong letter");
-//            }
-//            if (4 == h) {
-//                printf("");
-//            }
+
 //
 //
         }
